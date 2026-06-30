@@ -40,21 +40,21 @@ Building scalable mobile applications and modern backend systems with
 <tr>
 <td width="33%" align="center">
 
-### 🤖 ApplyFlow AI
+### ApplyFlow AI
 AI-powered recruitment platform with Resume Parsing, Redis Queue, Docker, AWS & RBAC.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🚖 RideMatch
+### RideMatch
 Real-time ride-sharing app built with Flutter, Node.js, MongoDB & WebSockets.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🛠 ProTasker
+### ProTasker
 Marketplace app with Booking, Chat, Firebase & AI-powered Search.
 
 </td>
