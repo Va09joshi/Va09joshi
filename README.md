@@ -1,95 +1,86 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Joshi</h1>
+## 👨‍💻 About Me
 
-<h3 align="center">
-Flutter Developer • Full-Stack Engineer • Software Developer
-</h3>
-
-<p align="center">
-Building scalable mobile applications and modern backend systems with
-<strong>Flutter</strong>, <strong>Node.js</strong>, and <strong>Cloud Technologies</strong>.
-</p>
-
-<p align="center">
-<a href="https://www.vaibhav-joshi.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vaibhav-joshi-7113b11b5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:vaibhavjoshi0709@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Va09joshi">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+> I'm **Vaibhav Joshi**, a **Flutter Developer** and **Full-Stack Software Engineer** passionate about building scalable mobile applications and modern backend systems. I enjoy turning ideas into production-ready products using Flutter, Node.js, Firebase, and cloud technologies while focusing on clean architecture, performance, and exceptional user experiences.
 
 <br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Va09joshi&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Va09joshi?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/Va09joshi?style=flat-square"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,mongodb,mysql,redis,docker,aws,gcp,git,github,linux,postman,vscode,figma&perline=9"/>
 </p>
 
----
+```yaml
+name: Vaibhav Joshi
 
-<h2 align="center">🚀 Featured Projects</h2>
+title:
+  - Flutter Developer
+  - Full-Stack Software Engineer
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
+experience:
+  - Building scalable cross-platform mobile applications
+  - Developing modern backend systems & REST APIs
+  - Designing clean, maintainable, and production-ready software
 
-### ApplyFlow AI
-AI-powered recruitment platform with Resume Parsing, Redis Queue, Docker, AWS & RBAC.
+currently:
+  - Building Flutter applications for real-world products
+  - Learning System Design & Cloud Architecture
+  - Exploring AI integration in mobile applications
+  - Improving backend scalability with Node.js
 
-</td>
+expertise:
+  mobile:
+    - Flutter
+    - Dart
 
-<td width="33%" align="center">
+  backend:
+    - Node.js
+    - Express.js
 
-### RideMatch
-Real-time ride-sharing app built with Flutter, Node.js, MongoDB & WebSockets.
+  database:
+    - MongoDB
+    - MySQL
+    - Firebase
 
-</td>
+  cloud:
+    - AWS
+    - Docker
+    - Redis
+    - Google Cloud
 
-<td width="33%" align="center">
+engineering:
+  - Clean Architecture
+  - Performance Optimization
+  - Scalable Software Design
+  - REST API Development
+  - Authentication & Authorization
+  - Real-time Applications
+  - Payment Gateway Integration
 
-### ProTasker
-Marketplace app with Booking, Chat, Firebase & AI-powered Search.
+featured_projects:
+  - ApplyFlow AI
+  - RideMatch
+  - ProTasker
 
-</td>
-</tr>
-</table>
+currently_open_for:
+  - Full-Time Opportunities
+  - Freelance Projects
+  - Open Source Collaboration
+  - Technical Discussions
 
----
+portfolio:
+  website:  www.vaibhav-joshi.me
 
-<h2 align="center">💻 Tech Stack</h2>
+profiles:
+  github:   github.com/Va09joshi
+  linkedin: linkedin.com/in/vaibhav-joshi-7113b11b5
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,mysql,firebase,redis,docker,aws,gcp,git,github,postman,vscode,figma,linux&perline=9"/>
-</p>
+contact:
+  email:    vaibhavjoshi0709@gmail.com
 
----
+life_philosophy:
+  "Build software that is scalable, maintainable,
+  and creates meaningful impact for users."
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Va09joshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Va09joshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Va09joshi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Va09joshi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Va09joshi&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br>
-
----
+fun_fact:
+  "I enjoy turning complex ideas into simple,
+  elegant, and user-friendly applications."
+```
