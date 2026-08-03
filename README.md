@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## About Me
 
 > I'm **Vaibhav Joshi**, a **Flutter Developer** and **Full-Stack Software Engineer** passionate about building scalable mobile applications and modern backend systems. I enjoy turning ideas into production-ready products using Flutter, Node.js, Firebase, and cloud technologies while focusing on clean architecture, performance, and exceptional user experiences.
 
