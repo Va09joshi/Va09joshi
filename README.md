@@ -11,76 +11,36 @@
 ```yaml
 name: Vaibhav Joshi
 
-title:
-  - Flutter Developer
-  - Full-Stack Software Engineer
+role: Flutter Developer · Full-Stack Engineer
 
-experience:
-  - Building scalable cross-platform mobile applications
-  - Developing modern backend systems & REST APIs
-  - Designing clean, maintainable, and production-ready software
+about: >
+  Building clean, scalable, and production-ready applications
+  with Flutter, Node.js, and modern technologies.
 
-currently:
-  - Building Flutter applications for real-world products
-  - Learning System Design & Cloud Architecture
-  - Exploring AI integration in mobile applications
-  - Improving backend scalability with Node.js
+skills:
+  Mobile: Flutter · Dart
+  Backend: Node.js · Express.js · REST APIs
+  Database: MongoDB · MySQL · Firebase
+  Cloud: AWS · GCP · Docker · Redis
 
-expertise:
-  mobile:
-    - Flutter
-    - Dart
-
-  backend:
-    - Node.js
-    - Express.js
-
-  database:
-    - MongoDB
-    - MySQL
-    - Firebase
-
-  cloud:
-    - AWS
-    - Docker
-    - Redis
-    - Google Cloud
-
-engineering:
+focus:
+  - Scalable Systems
   - Clean Architecture
-  - Performance Optimization
-  - Scalable Software Design
-  - REST API Development
-  - Authentication & Authorization
-  - Real-time Applications
-  - Payment Gateway Integration
+  - Performance
+  - API Development
 
-featured_projects:
+projects:
   - ApplyFlow AI
   - RideMatch
   - ProTasker
 
-currently_open_for:
-  - Full-Time Opportunities
-  - Freelance Projects
-  - Open Source Collaboration
-  - Technical Discussions
+connect:
+  Website: https://www.vaibhav-joshi.me
+  GitHub: https://github.com/Va09joshi
+  LinkedIn: https://linkedin.com/in/vaibhav-joshi-7113b11b5
+  Email: vaibhavjoshi0709@gmail.com
 
-portfolio:
-  website:  www.vaibhav-joshi.me
+currently: Building · Learning · Creating
 
-profiles:
-  github:   github.com/Va09joshi
-  linkedin: linkedin.com/in/vaibhav-joshi-7113b11b5
-
-contact:
-  email:    vaibhavjoshi0709@gmail.com
-
-life_philosophy:
-  "Build software that is scalable, maintainable,
-  and creates meaningful impact for users."
-
-fun_fact:
-  "I enjoy turning complex ideas into simple,
-  elegant, and user-friendly applications."
+philosophy: "Build simple software that solves real problems"
 ```
